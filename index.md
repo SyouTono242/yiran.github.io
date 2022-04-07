@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: home
 title: About
-permalink: /about/
 ---
 
 # About Me
@@ -15,12 +14,13 @@ My name is Yiran and I'm currently a 4th-year student at
 Outside of school, I'm a trivia collector, a book lover, and a (beginner level) Klingon speaker. Pretty random right?
 
 Wanna know something even more random? Here's some of my trivia collection:
+
 - The number of segments inside a mangosteen equals the number of petals on its bottom \[1\]
 - Cattles don't have teeth at the front of their upper jaws \[2\]
 - Extra nipples are common, and yes they can milk \[3\] 
 
 
-If you are interested to contact me for some reason, reach me at: [charlottesyr@outlook.com](mailto:charlottesyr@outlook.com)
+If you are interested to contact me for some reason, reach me at: [yshao242@uwo.ca](mailto:yshao242@uwo.ca)
 
 ---
 
