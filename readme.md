@@ -13,7 +13,7 @@ It's only here because I'm a goldfish who can't seem to remember how to run my o
 
 2. Make it available on your local server.
 ```
-bundle exec jekyll serve
+bundle exec jekyll serve --config _config_local.yml
 ```
 
 3. Brose to [http://localhost:4000](http://localhost:4000)
