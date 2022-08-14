@@ -1,18 +1,26 @@
 ---
 layout: home
 title: About
+nav_order: 1
+description: "Heyyy! I'm Yiran, nice to meet you!"
+permalink: /
 ---
 
 # About Me
 
 Hello there, welcome to my page UwU!
 
-![Yiran_Goldenrod_30](https://tva1.sinaimg.cn/large/e6c9d24egy1h16kntklzxj20ee0eemz1.jpg)
+<p align="center">
+  <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h16kntklzxj20ee0eemz1.jpg" />
+</p>
 
 > That's me with some goldenrods and a gall housing the parasitic goldenrod gall fly, *Eurosta solidaginis*.
 
-My name is Yiran and I'm currently a 4th-year student at 
-[Western University](https://www.uwo.ca), working on a double major in Biology and Computer Science. I'm currently doing my thesis projects under the supervision of [Dr. Simon Bonner](https://www.uwo.ca/stats/people/bios/simon-bonner.html) and [Dr. Art Poon](https://www.schulich.uwo.ca/microbiologyandimmunology/people/Art%20Poon.html). I study birds' range expansion and viruses' evolution, but there is so much more in nature to explore. 
+My name is Yiran and I'm currently a master's student at the University of Toronto, [Department of Molecular Genetics](https://moleculargenetics.utoronto.ca/). 
+
+I do computational work, mostly on bioinformatics/biostatistics. I'm still doing my rotations at UofT MoGen (i.e., working on miniprojects with temporary supervisors) so I don't yet know what my thesis project would be, but in my undergrad, I've played with birds' range expansion and [viruses' evolution](https://filogeneti.ca/covizu/). Both were tons of fun!
+
+---
 
 Outside of school, I'm a trivia collector, a book lover, and a (beginner level) Klingon speaker. Pretty random right?
 
@@ -22,8 +30,19 @@ Wanna know something even more random? Here's some of my trivia collection:
 - Cattles don't have teeth at the front of their upper jaws \[2\]
 - Extra nipples are common, and yes they can milk \[3\] 
 
+---
 
-If you are interested to contact me for some reason, reach me at: [yshao242@uwo.ca](mailto:yshao242@uwo.ca)
+If you are interested to contact me for some reason, reach me at: 
+
+Email (where I "fake work"): [yshao242@uwo.ca](mailto:yshao242@uwo.ca)
+
+Twitter (where I shitpost when I procrastinate): [@CharlotteSYR](https://twitter.com/charlottesyr)
+
+小红书 (also shitpost, but in Chinese): 
+
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h56vt3lhiqj20ox08kt9o.jpg" alt="Screenshot_20220814-145711~2" style="zoom:33%;" />
+
+
 
 ---
 
