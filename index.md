@@ -12,7 +12,7 @@ Hello there, welcome to my page!
 
 <p align="center">
    <img 
-    src="{{ site.url }}/assets/images/20240618_goldenrodGallPic.jpg" 
+    src="{{ site.baseurl }}/assets/images/20240618_goldenrodGallPic.jpg" 
     alt="Me with goldenrod gall fly"
     width="50%" />
 </p>
@@ -33,7 +33,7 @@ Outside of school, I read (probably too many) books, listen to musicals (mostly 
  
 <p align="center">
    <img 
-    src="{{ site.url }}/assets/images/20240618_guineaPigs.jpg" 
+    src="{{ site.baseurl }}/assets/images/20240618_guineaPigs.jpg" 
     alt="Guinea pigs"
     width="60%" />
 </p>
