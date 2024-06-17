@@ -8,49 +8,46 @@ permalink: /
 
 # About Me
 
-Hello there, welcome to my page UwU!
+Hello there, welcome to my page!
 
 <p align="center">
-  <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h16kntklzxj20ee0eemz1.jpg" />
+   <img 
+    src="{{ site.url }}/assets/images/20240618_goldenrodGallPic.jpg" 
+    alt="Me with goldenrod gall fly"
+    width="50%" />
 </p>
 
-> That's me with some goldenrods and a gall housing the parasitic goldenrod gall fly, *Eurosta solidaginis*.
+> ^Me with some goldenrods and a gall housing the parasitic goldenrod gall fly, *Eurosta solidaginis*.
 
-My name is Yiran and I'm currently a master's student at the University of Toronto, [Department of Molecular Genetics](https://moleculargenetics.utoronto.ca/). 
+I'm Yiran, a PhD student from the [Awadalla Lab](https://pawadallalab.org/), in [Molecular Genetics](https://moleculargenetics.utoronto.ca/), at the [University of Toronto](https://www.utoronto.ca/). 
 
-I do computational work, mostly on bioinformatics/biostatistics. I'm still doing my rotations at UofT MoGen (i.e., working on miniprojects with temporary supervisors) so I don't yet know what my thesis project would be, but in my undergrad, I've played with birds' range expansion and [viruses' evolution](https://filogeneti.ca/covizu/). Both were tons of fun!
+I do computational biology. What (I believe) this means is that I write code, build models, and fit those models to biological data, trying to dig insights hidden in the biology. The data that I have worked with include [developmental images of human kidney organoids that are exposed to heavy metal](https://www.deriveresearch.ca/), [observation records of non-native birds in North America](https://academic.oup.com/condor/article-abstract/126/1/duad052/7286365), and pathology slides of ovarian cancer. 
 
----
-
-Outside of school, I'm a trivia collector, a book lover, and a (beginner level) Klingon speaker. Pretty random right?
-
-Wanna know something even more random? Here's some of my trivia collection:
-
-- The number of segments inside a mangosteen equals the number of petals on its bottom \[1\]
-- Cattles don't have teeth at the front of their upper jaws \[2\]
-- Extra nipples are common, and yes they can milk \[3\] 
+I find nature fascinating, and I think with a bit more help on data analysis and machine learning, we can reveal much more of its secrets much easier. 
 
 ---
 
-If you are interested to contact me for some reason, reach me at: 
+Outside of school, I read (probably too many) books, listen to musicals (mostly on Spotify because I usually can't afford the tickets), and chill with my two Guinea pigs. 
 
-Email (where I "fake work"): [yshao242@uwo.ca](mailto:yshao242@uwo.ca)
+**!!! DO NOT SCROLL DOWN IF YOU HAVE FEAR OF RODENTS !!!**
+ 
+<p align="center">
+   <img 
+    src="{{ site.url }}/assets/images/20240618_guineaPigs.jpg" 
+    alt="Guinea pigs"
+    width="60%" />
+</p>
 
-Twitter (where I shitpost when I procrastinate): [@CharlotteSYR](https://twitter.com/charlottesyr)
-
-小红书 (also shitpost, but in Chinese): 
-
-<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h56vt3lhiqj20ox08kt9o.jpg" alt="Screenshot_20220814-145711~2" style="zoom:33%;" />
-
-
+> ^ My guinea pigs (*Cavia porcellus*) Sharpie (left, tan) and Laifu (right, tricolour), chilling, as if they're not planning to take over the world.
 
 ---
 
-## Reference
+If you are interested in collaborating or seeing some more pics of Guinea pigs, reach me at: 
 
-\[1\]: [Determination of translucent content in mangosteen by means of near infrared transmittance.](https://doi.org/10.1016/j.jfoodeng.2011.09.027)
+- Email: [helloyiran.shao@mail.utoronto.ca](mailto:helloyiran.shao@mail.utoronto.ca)
 
-\[2\]: [Surgery of the bovine digestive system](https://doi.org/10.1016/B978-0-323-31665-1.00014-9)
+- X/Twitter (where I occasionally post random thoughts): [@CharlotteSYR](https://twitter.com/charlottesyr)
 
-\[3\]: [Supernumerary nipples: prevalence, size, sex and side predilection – a prospective clinical study](https://doi.org/10.1007/s004310050944)
+- 小红书 (more thoughts, in Chinese): [氢化可的松](https://www.xiaohongshu.com/user/profile/5bfca9a844363b501d6249d6) ID 548028654
+
 
