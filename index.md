@@ -19,7 +19,7 @@ Hello there, welcome to my page!
 
 > ^Me with some goldenrods and a gall housing the parasitic goldenrod gall fly, *Eurosta solidaginis*.
 
-I'm Yiran, a PhD student from the [Awadalla Lab](https://pawadallalab.org/), in [Molecular Genetics](https://moleculargenetics.utoronto.ca/), at the [University of Toronto](https://www.utoronto.ca/). 
+I'm Yiran, a PhD student from the [Awadalla Lab](https://pawadallalab.org/), in [Molecular Genetics](https://moleculargenetics.utoronto.ca/), at the [University of Toronto](https://www.utoronto.ca/). Before this, I received my B.Sc. Honours at [Western University](https://www.uwo.ca/index.html) in London, Ontario, where I did my undergraduate thesis projects in [Dr. Simon Bonner's](https://simon.bonners.ca/bonner-lab/wpblog/) and [Dr. Art Poon's](https://www.schulich.uwo.ca/pathol//people/faculty/poon_art.html) labs.
 
 I do computational biology. What (I believe) this means is that I write code, build models, and fit those models to biological data, trying to dig insights hidden in the biology. The data that I have worked with include [developmental images of human kidney organoids that are exposed to heavy metal](https://www.deriveresearch.ca/), [observation records of non-native birds in North America](https://academic.oup.com/condor/article-abstract/126/1/duad052/7286365), and pathology slides of ovarian cancer. 
 
@@ -38,7 +38,7 @@ Outside of school, I read (probably too many) books, listen to musicals (mostly 
     width="60%" />
 </p>
 
-> ^ My guinea pigs (*Cavia porcellus*) Sharpie (left, tan) and Laifu (right, tricolour), chilling, as if they're not planning to take over the world.
+> ^ My guinea pigs (*Cavia porcellus*) Sharpie (left, tan) and Laifu (right, tricolour), chilling, as if they're not planning on taking over the world.
 
 ---
 
